@@ -1,4 +1,6 @@
 class Demo{
+  String name;
+  int id;
 public static void main(string[] args)
 {
 int i=0;
